@@ -6,3 +6,4 @@ Sharing remotely is fun and easy
 
 CHANGE FROM GITHUB
 ANOTHER LINE
+Feature2
