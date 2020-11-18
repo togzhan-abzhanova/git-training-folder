@@ -1,9 +1,10 @@
 Hello, Git
-**Unexpected update
+
 second line
 Updating README with new info
 Sharing remotely is fun and easy
 
+Fixing bug#1234
 CHANGE FROM GITHUB
 ANOTHER LINE
 Feature1
